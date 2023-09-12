@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF7F00</color>
+    <color name="Abricot">#E67E22 </color>
+    <color name="gris">#A9A9A9</color>
+    <color name="Bleu">#56A9E8</color>
+    <color name="Rose">#EE667A</color>
+    <color name="ma_couleur_principale_sombre">#CC2244</color>
+    <color name="ma_couleur_de_fond">#F0F0F0</color>
+    <color name="colorPrimary">#E67E22</color>
+
+
+
+</resources>
